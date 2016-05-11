@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://ritcoder.github.com/no-export-loader"
+    "url": "https://github.com/ritcoder/no-export-loader"
   },
   "keywords": [
     "webpack"
