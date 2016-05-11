@@ -7,5 +7,5 @@ This loader simply removes that last line
 **Usage**
 
 ``
-var X = require("no-export?./Main");
+var X = require("no-export!./Main");
 ``
